@@ -1,0 +1,23 @@
+/*
+Theme Name: Mi Tema Minimo
+Theme URI: http://localhost/mi-sitio-wp/wp-content/themes/mi-tema-minimo
+Author: Tu Nombre
+Author URI: http://tu-web.com
+Description: Un tema minimo para entender la estructura basica de WordPress.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mi-tema-minimo
+*/
+
+/* Aquí podrías poner estilos CSS si quisieras, pero no son necesarios para que el tema funcione. */
+body {
+    background-color: #e0f7fa; /* Un azul claro muy sutil */
+    font-family: sans-serif;
+    color: #333;
+    margin: 40px;
+    text-align: center;
+}
+h1 {
+    color: #00796b; /* Un verde azulado */
+}
