@@ -4,3 +4,28 @@ Author: Nagib
 Description: Un tema ligero personalizado para mi portafolio en WordPress.
 Version: 1.0
 */
+
+/* Estilos básicos para el menú de navegación */
+
+nav {
+  display: flex;
+  gap: 1rem; /* Espacio entre enlaces */
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+nav ul {
+    display: flex;
+    gap: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0073aa;
+  text-decoration: underline;
+}
